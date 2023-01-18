@@ -1,3 +1,8 @@
-let num = 12;
 
-(num%2==0)?console.log("it's  a even number"):console.log("it's a odd");
+let num = 12
+if(num%2==0){
+console.log("It is even")
+}
+else{
+console.log("not a even")
+}
